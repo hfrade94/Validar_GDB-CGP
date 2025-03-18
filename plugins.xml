@@ -8,6 +8,6 @@
         <homepage>https://github.com/hfrade94/Lotear-CGP</homepage>
         <file_name>Validar_GDB-CGP</file_name>
         <author_name>SGGP</author_name>
-        <download_url>https://github.com/hfrade94/Validar_GDB-CGP/archive/refs/heads/main.zip</download_url>
+        <download_url>https://github.com/hfrade94/LotearCGP/raw/main/Validar_GDB-CGP.zip</download_url>
     </pyqgis_plugin>
 </plugins>
