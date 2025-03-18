@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugins>
+    <pyqgis_plugin name="Validar_GDB-CGP" version="2.0">
+        <description>Plugin desenvolvido para o QGIS, escrito em Python, que facilita a verificação de cadastro técnico, seguindo os padrões estabelecidos pela CAGEPA.</description>
+        <version>2.0</version>
+        <qgis_minimum_version>3.40</qgis_minimum_version>
+        <qgis_maximum_version>3.99</qgis_maximum_version>
+        <homepage>https://github.com/hfrade94/Lotear-CGP</homepage>
+        <file_name>Validar_GDB-CGP</file_name>
+        <author_name>SGGP</author_name>
+        <download_url>https://github.com/hfrade94/Validar_GDB-CGP/archive/refs/heads/main.zip</download_url>
+    </pyqgis_plugin>
+</plugins>
